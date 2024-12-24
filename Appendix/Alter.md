@@ -11,7 +11,7 @@
 ## Alter Database Name
 
 
-```genericsql
+```sql92
 ALTER DATABASE database_name
 RENAME TO new_database_name
 ```
