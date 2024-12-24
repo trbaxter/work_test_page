@@ -10,7 +10,6 @@
 
 ## Alter Database Name
 
-
 ```hiveql
 ALTER DATABASE database_name
 RENAME TO new_database_name
