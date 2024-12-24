@@ -11,7 +11,7 @@
 ## Alter Database Name
 
 
-```postgresql
+```genericsql
 ALTER DATABASE database_name
 RENAME TO new_database_name
 ```
