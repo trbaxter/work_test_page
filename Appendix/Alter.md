@@ -11,7 +11,7 @@
 ## Alter Database Name
 
 
-```sql92
+```sql
 ALTER DATABASE database_name
 RENAME TO new_database_name
 ```
