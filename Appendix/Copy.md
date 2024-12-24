@@ -18,6 +18,10 @@ FROM @my_internal_stage
 FILES = ('file_name.extension')
 FILE_FORMAT = (FORMAT_NAME = 'some_file_format')
 ```
+
+$\textcolor[HTML]{FF5733}{\mathtt{TESTING}}$
+
+
 Copies data from an internal stage into a given table. Uses a specified file format type. 
 Documentation link <a href="https://docs.snowflake.com/en/sql-reference/sql/copy-into-table">here</a>.
 
