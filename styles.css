@@ -1,0 +1,53 @@
+body {
+    font-family: inherit;
+}
+
+hr {
+    border: 0;
+    border-top: 2px solid #656565;
+    margin: 10px 0;
+    width: 80%;
+}
+
+
+
+
+/* Snowflake Green */
+.sf-green {
+    color: #9EFFD9 !important;
+}
+
+/* Snowflake Blue */
+.sf-blue {
+    color: #88B8FF !important;
+}
+
+/* Snowflake Red */
+.sf-red {
+    color: #FF6E8A !important;
+}
+
+/* Warning Red */
+.warning {
+    color: #FF0000 !important;
+}
+
+/* Caution Orange */
+.caution {
+    color: #FAB567 !important;
+}
+
+/* Note Yellow */
+.note {
+    color: #FFF000 !important;
+}
+
+/* Tip Green */
+.tip {
+    color: #41FF00 !important;
+}
+
+/* Other Purple */
+.other {
+    color: #C289FF !important;
+}

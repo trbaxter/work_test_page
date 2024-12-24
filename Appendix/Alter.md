@@ -10,11 +10,11 @@
 
 ## Alter Database Name
 
-```sql
+
+```plsql
 ALTER DATABASE database_name
 RENAME TO new_database_name
 ```
-
 
 Renames an existing database.  
 Documentation link <a href="https://docs.snowflake.com/en/sql-reference/sql/alter-database#syntax">here</a>.
