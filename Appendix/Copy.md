@@ -19,7 +19,8 @@ FILES = ('file_name.extension')
 FILE_FORMAT = (FORMAT_NAME = 'some_file_format')
 ```
 
-$\textcolor[HTML]{FF5733}{\mathtt{TESTING}}$
+$\textcolor[rgb]{1,0.341,0.2}{\mathtt{TESTING}}$`
+
 
 
 Copies data from an internal stage into a given table. Uses a specified file format type. 
