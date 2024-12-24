@@ -21,9 +21,8 @@ FILE_FORMAT = (FORMAT_NAME = 'some_file_format')
 
 <br/>
 
-<p>
+
 $\textcolor[rgb]{0,0.75,1}{\texttt{TESTING}}$
-</p>
 
 <br/>
 
