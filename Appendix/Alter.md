@@ -11,10 +11,10 @@
 ## Alter Database Name
 
 
-```sql
-ALTER DATABASE database_name
+
+<span>ALTER DATABASE database_name</span>
 RENAME TO new_database_name
-```
+
 
 Renames an existing database.  
 Documentation link <a href="https://docs.snowflake.com/en/sql-reference/sql/alter-database#syntax">here</a>.
