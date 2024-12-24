@@ -19,9 +19,13 @@ FILES = ('file_name.extension')
 FILE_FORMAT = (FORMAT_NAME = 'some_file_format')
 ```
 
-$\textcolor[rgb]{1,0.341,0.2}{\mathtt{TESTING}}$`
+<br/>
 
+<p>
+$\textcolor[rgb]{0,0.75,1}{\texttt{TESTING}}$
+</p>
 
+<br/>
 
 Copies data from an internal stage into a given table. Uses a specified file format type. 
 Documentation link <a href="https://docs.snowflake.com/en/sql-reference/sql/copy-into-table">here</a>.
