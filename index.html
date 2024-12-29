@@ -3,22 +3,43 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Page</title>
+    <title>Color Preview</title>
     <style>
         body {
+            background-color: black; /* Sets the background to black */
+            color: white; /* Sets the text color to white */
             font-family: Arial, sans-serif;
-            text-align: center;
-            margin-top: 50px;
+            margin: 0;
+            padding: 20px;
         }
-        h1 {
-            color: #333;
+        .color-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
         }
-        p {
-            color: #666;
+        .color-square {
+            width: 50px;
+            height: 50px;
+            margin-right: 15px;
+            border: 1px solid white; /* Makes the squares more distinct */
+        }
+        .color-label {
+            font-size: 18px;
         }
     </style>
 </head>
 <body>
-    <h1>Welcome to My GitHub.io Page</h1>
+    <div class="color-item">
+        <div class="color-square" style="background-color: #C1F2E7;"></div>
+        <div class="color-label">#C1F2E7 (Seafoam Green)</div>
+    </div>
+    <div class="color-item">
+        <div class="color-square" style="background-color: #CBFFF3;"></div>
+        <div class="color-label">#CBFFF3 (Brighter Seafoam Green)</div>
+    </div>
+    <div class="color-item">
+        <div class="color-square" style="background-color: #FFF;"></div>
+        <div class="color-label">#FFF (White)</div>
+    </div>
 </body>
 </html>
